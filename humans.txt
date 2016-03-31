@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Stephen Axtell  axtell.stephen@gmail.com    @bigpoppasmurf
 
 # THANKS
 
